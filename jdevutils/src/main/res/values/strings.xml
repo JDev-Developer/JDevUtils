@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">JDevUtils</string>
+
+    <!-- Dialog String -->
+    <string name="info">Informazione</string>
+    <string name="warning">Attenzione</string>
+    <string name="error">Errore</string>
+    <string name="do_choice">Scegli</string>
+
 </resources>
